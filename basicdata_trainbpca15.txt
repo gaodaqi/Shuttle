@@ -1,0 +1,2160 @@
+numerror(1)=0 0 0 -1
+n0=1;k0=1;minnumerror1=0;minnumerror2(k0)=0
+num(1,2)=1
+minnumerror02(1,2)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(1,2)=1.159
+runtime(1,2)=1.169
+runtime(1,2)=1.172
+
+minnumerror2(1,2)=minnumerror2(1)=0
+0  
+runtime(1,2)=1.181
+
+numerror(1)=0 0 0 -1
+n0=1;k0=2;minnumerror1=0;minnumerror2(k0)=0
+num(1,3)=1
+minnumerror02(1,3)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(1,3)=1.216
+runtime(1,3)=1.216
+runtime(1,3)=1.226
+
+minnumerror2(1,3)=minnumerror2(2)=0
+0  0  
+runtime(1,3)=1.246
+
+numerror(1)=0 0 0 1
+n0=1;k0=3;minnumerror1=0;minnumerror2(k0)=0
+num(1,4)=1
+minnumerror02(1,4)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(1,4)=1.282
+runtime(1,4)=1.287
+runtime(1,4)=1.292
+
+minnumerror2(1,4)=minnumerror2(3)=0
+0  0  0  
+runtime(1,4)=1.317
+
+numerror(1)=0 0 0 1
+n0=1;k0=4;minnumerror1=0;minnumerror2(k0)=0
+num(1,5)=1
+minnumerror02(1,5)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(1,5)=1.353
+runtime(1,5)=1.358
+runtime(1,5)=1.363
+
+minnumerror2(1,5)=minnumerror2(4)=0
+0  0  0  0  
+runtime(1,5)=1.388
+
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=1 0 3 1
+numerror(4)=1 0 3 1
+numerror(5)=1 0 3 1
+numerror(6)=1 0 3 1
+numerror(7)=1 0 3 1
+numerror(8)=1 0 3 1
+numerror(9)=1 0 3 1
+numerror(10)=1 0 3 1
+numerror(11)=1 0 3 1
+numerror(12)=819 1 2 1
+numerror(13)=1712 2 2 1
+numerror(14)=1712 2 2 1
+numerror(15)=1712 2 2 1
+(p, q)=6, 3509
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=1 0 3 1
+numerror(4)=1 0 3 1
+numerror(5)=1 0 3 1
+numerror(6)=819 1 2 1
+numerror(7)=1712 2 2 1
+numerror(8)=1712 2 2 1
+numerror(9)=1712 2 2 1
+(p, q)=6, 1647
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=1 0 3 1
+numerror(4)=1 0 3 1
+numerror(5)=1 0 3 1
+numerror(6)=1 0 4 1
+numerror(7)=1713 2 6 1
+numerror(8)=1713 2 6 1
+numerror(9)=1712 2 2 1
+(p, q)=6, 721
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=1 0 3 1
+numerror(4)=1 0 3 1
+numerror(5)=1 0 5 1
+numerror(6)=820 1 4 1
+numerror(7)=1713 2 4 1
+numerror(8)=1713 2 4 1
+(p, q)=6, 251
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=1 0 3 1
+numerror(4)=1 0 3 1
+numerror(5)=819 1 2 1
+numerror(6)=821 1 10 1
+numerror(7)=833 1 55 1
+numerror(8)=851 1 127 1
+(p, q)=6, 77
+numerror(1)=82 0 269 1
+num(1,6)=50
+minnumerror02(1,6)=0  3  3
+0  3
+0  3
+0  0
+0  0
+0  0
+3
+runtime(1,6)=2.804
+
+ n_tr3=
+
+1  4  4  1
+5  7  3  2
+0  0  0  3
+8  3513  3506  4
+3514  3515  2  5
+0  0  0  6
+0  0  0  7
+3516  6754  3239  8
+
+numerror11(1 1)=819.659 1 1 -1
+numerror11(1 2)=819.659 1 1 -1
+numerror11(1 4)=819.659 1 1 -1
+numerror11(1 6)=819.659 1 1 -1
+numerror11(1 8)=819.659 1 1 -1
+numerror11(1 10)=819.659 1 1 -1
+numerror11(1 12)=819.659 1 1 -1
+numerror11(1 14)=819.659 1 1 -1
+numerror11(1 16)=819.659 1 1 -1
+numerror11(1 18)=819.659 1 1 -1
+numerror11(1 20)=819.659 1 1 -1
+numerror11(1 22)=819.659 1 1 -1
+numerror11(1 24)=819.659 1 1 -1
+numerror11(1 26)=819.659 1 1 -1
+numerror11(1 28)=819.579 1 0 -1
+numerror11(1 30)=819.579 1 0 -1
+numerror11(1 32)=819.579 1 0 -1
+numerror11(1 34)=819.579 1 0 -1
+numerror11(1 36)=819.579 1 0 -1
+numerror11(1 38)=819.579 1 0 -1
+numerror11(1 40)=819.579 1 0 -1
+numerror11(1 42)=819.579 1 0 -1
+numerror11(1 44)=819.579 1 0 -1
+numerror11(1 46)=819.579 1 0 -1
+numerror11(1 48)=819.579 1 0 -1
+numerror11(1 50)=819.579 1 0 -1
+numerror11(1 52)=819.579 1 0 -1
+numerror11(1 54)=819.579 1 0 -1
+numerror11(1 56)=819.579 1 0 -1
+numerror11(1 58)=819.579 1 0 -1
+numerror11(1 60)=819.579 1 0 -1
+numerror11(1 62)=819.579 1 0 -1
+numerror11(1 64)=819.579 1 0 -1
+numerror11(1 66)=819.579 1 0 -1
+numerror11(1 68)=819.579 1 0 -1
+numerror11(1 70)=819.579 1 0 -1
+numerror11(1 72)=819.579 1 0 -1
+numerror11(1 74)=819.579 1 0 -1
+numerror11(1 76)=819.579 1 0 -1
+numerror11(1 78)=819.579 1 0 -1
+numerror11(1 80)=819.579 1 0 -1
+numerror11(1 82)=819.579 1 0 -1
+numerror11(1 84)=819.579 1 0 -1
+numerror11(1 86)=819.579 1 0 -1
+numerror11(1 88)=819.579 1 0 -1
+numerror11(1 90)=819.579 1 0 -1
+numerror11(1 92)=819.579 1 0 -1
+numerror11(1 94)=819.579 1 0 -1
+numerror11(1 96)=819.579 1 0 -1
+numerror11(1 98)=819.579 1 0 -1
+numerror11(1 100)=819.579 1 0 -1
+numerror11(1 102)=819.579 1 0 -1
+numerror11(1 104)=819.579 1 0 -1
+numerror11(1 106)=819.579 1 0 -1
+numerror11(1 108)=819.579 1 0 -1
+numerror11(1 110)=819.579 1 0 -1
+numerror11(1 112)=819.579 1 0 -1
+numerror11(1 114)=819.579 1 0 -1
+numerror11(1 116)=819.579 1 0 -1
+numerror11(1 118)=819.579 1 0 -1
+numerror11(1 120)=819.579 1 0 -1
+numerror11(1 122)=819.579 1 0 -1
+numerror11(1 124)=1712.45 2 0 -1
+numerror11(1 126)=819.579 1 0 -1
+numerror11(1 128)=819.579 1 0 -1
+numerror11(1 130)=819.579 1 0 -1
+numerror11(1 132)=819.579 1 0 -1
+numerror11(1 134)=819.579 1 0 -1
+numerror11(1 136)=819.579 1 0 -1
+numerror11(1 138)=1712.45 2 0 -1
+numerror11(1 140)=819.579 1 0 -1
+numerror11(1 142)=819.579 1 0 -1
+numerror11(1 144)=819.579 1 0 -1
+numerror11(1 146)=819.579 1 0 -1
+numerror11(1 148)=819.579 1 0 -1
+numerror11(1 150)=819.579 1 0 -1
+numerror11(1 150)=819.579 1 0 -1
+numerror11(2 1)=1712.45 2 0 -1
+numerror11(2 2)=819.579 1 0 -1
+numerror11(2 4)=819.579 1 0 -1
+numerror11(2 6)=819.579 1 0 -1
+numerror11(2 8)=819.579 1 0 -1
+numerror11(2 10)=819.579 1 0 -1
+numerror11(2 12)=819.579 1 0 -1
+numerror11(2 14)=1712.45 2 0 -1
+numerror11(2 16)=819.579 1 0 -1
+numerror11(2 18)=819.579 1 0 -1
+numerror11(2 20)=819.579 1 0 -1
+numerror11(2 22)=819.579 1 0 -1
+numerror11(2 24)=819.579 1 0 -1
+numerror11(2 26)=819.579 1 0 -1
+numerror11(2 28)=819.579 1 0 -1
+numerror11(2 30)=819.579 1 0 -1
+numerror11(2 32)=819.579 1 0 -1
+numerror11(2 34)=819.579 1 0 -1
+numerror11(2 36)=819.579 1 0 -1
+numerror11(2 38)=819.579 1 0 -1
+numerror11(2 40)=1712.45 2 0 -1
+numerror11(2 42)=819.579 1 0 -1
+numerror11(2 44)=819.579 1 0 -1
+numerror11(2 46)=819.579 1 0 -1
+numerror11(2 48)=819.579 1 0 -1
+numerror11(2 50)=819.579 1 0 -1
+numerror11(2 52)=1712.45 2 0 -1
+numerror11(2 54)=819.579 1 0 -1
+numerror11(2 56)=819.579 1 0 -1
+numerror11(2 58)=819.579 1 0 -1
+numerror11(2 60)=819.579 1 0 -1
+numerror11(2 62)=819.579 1 0 -1
+numerror11(2 64)=1712.45 2 0 -1
+numerror11(2 66)=819.579 1 0 -1
+numerror11(2 68)=819.579 1 0 -1
+numerror11(2 70)=819.579 1 0 -1
+numerror11(2 72)=819.579 1 0 -1
+numerror11(2 74)=819.579 1 0 -1
+numerror11(2 76)=1712.45 2 0 -1
+numerror11(2 78)=819.579 1 0 -1
+numerror11(2 80)=819.579 1 0 -1
+numerror11(2 82)=819.579 1 0 -1
+numerror11(2 84)=819.579 1 0 -1
+numerror11(2 86)=819.579 1 0 -1
+numerror11(2 88)=1712.45 2 0 -1
+numerror11(2 90)=819.579 1 0 -1
+numerror11(2 92)=819.579 1 0 -1
+numerror11(2 94)=819.579 1 0 -1
+numerror11(2 96)=819.579 1 0 -1
+numerror11(2 98)=819.579 1 0 -1
+numerror11(2 100)=1712.45 2 0 -1
+numerror11(2 102)=819.579 1 0 -1
+numerror11(2 104)=819.579 1 0 -1
+numerror11(2 106)=819.579 1 0 -1
+numerror11(2 108)=819.579 1 0 -1
+numerror11(2 110)=819.579 1 0 -1
+numerror11(2 112)=1712.45 2 0 -1
+numerror11(2 114)=819.579 1 0 -1
+numerror11(2 116)=819.579 1 0 -1
+numerror11(2 118)=819.579 1 0 -1
+numerror11(2 120)=819.579 1 0 -1
+numerror11(2 122)=819.579 1 0 -1
+numerror11(2 124)=1712.45 2 0 -1
+numerror11(2 126)=819.579 1 0 -1
+numerror11(2 128)=819.579 1 0 -1
+numerror11(2 130)=819.579 1 0 -1
+numerror11(2 132)=819.579 1 0 -1
+numerror11(2 134)=819.579 1 0 -1
+numerror11(2 136)=1712.45 2 0 -1
+numerror11(2 138)=819.579 1 0 -1
+numerror11(2 140)=819.579 1 0 -1
+numerror11(2 142)=819.579 1 0 -1
+numerror11(2 144)=819.579 1 0 -1
+numerror11(2 146)=819.579 1 0 -1
+numerror11(2 148)=1712.45 2 0 -1
+numerror11(2 150)=819.579 1 0 -1
+numerror11(2 150)=819.579 1 0 -1
+(n, minnumerror3)=(300, 819.579, 1, 0)
+num(1,6,1)=300
+
+minnumerror3_1(1,2,3,4)=1 0 0 0, sum=1
+minnumerror2(1,6)=minnumerror2(5)=1
+minnumerror4(1, 2, 3, 4)=1 0 0 0, sum=1
+1  0
+1  0
+0  0
+0  0
+0  0
+1
+minnumerror2(1,6)=minnumerror2(5)=1
+minnumerror4(1, 2, 3, 4)=1 0 0 0, sum=1
+runtime(1,6)=3.952
+runtime(1,6)=3.962
+
+minnumerror2(1,6)=minnumerror2(5)=3
+0  0  0  0  3  
+runtime(1,6)=3.978
+
+numerror(1)=2 0 10 1
+numerror(2)=2 0 10 1
+numerror(3)=2 0 10 1
+numerror(4)=2 0 10 1
+numerror(5)=2 0 10 1
+numerror(6)=2 0 10 1
+numerror(7)=2 0 10 1
+numerror(8)=2 0 9 1
+numerror(9)=2 0 9 1
+numerror(10)=2 0 9 1
+numerror(11)=2 0 9 1
+numerror(12)=2 0 9 1
+numerror(13)=2 0 8 1
+numerror(14)=2 0 8 1
+numerror(15)=2 0 8 1
+numerror(16)=2 0 8 1
+numerror(17)=2 0 8 1
+numerror(18)=2 0 8 1
+numerror(19)=1 0 5 1
+numerror(20)=1 0 5 1
+numerror(21)=1 0 3 1
+numerror(22)=1 0 3 1
+numerror(23)=1 0 3 1
+numerror(24)=1 0 3 1
+numerror(25)=1 0 3 1
+numerror(26)=1 0 3 1
+numerror(27)=1 0 3 1
+numerror(28)=1 0 3 1
+numerror(29)=1 0 3 1
+numerror(30)=1 0 3 1
+numerror(31)=1 0 3 1
+numerror(32)=1 0 3 1
+numerror(33)=1 0 3 1
+numerror(34)=1 0 3 1
+numerror(35)=1 0 3 1
+numerror(36)=1 0 3 1
+numerror(37)=1 0 3 1
+numerror(38)=1 0 2 1
+numerror(39)=1 0 2 1
+numerror(40)=1 0 2 1
+numerror(41)=1 0 2 1
+numerror(42)=0 0 1 1
+numerror(43)=0 0 1 1
+numerror(44)=0 0 1 1
+numerror(45)=0 0 1 1
+numerror(46)=0 0 1 1
+numerror(47)=0 0 1 1
+numerror(48)=0 0 1 1
+numerror(49)=0 0 1 1
+numerror(50)=1 0 2 1
+numerror(51)=1 0 2 1
+numerror(52)=1 0 2 1
+numerror(53)=1 0 2 1
+(p, q)=6, 15928
+numerror(1)=2 0 9 1
+numerror(2)=2 0 8 1
+numerror(3)=2 0 8 1
+numerror(4)=2 0 8 1
+numerror(5)=2 0 8 1
+numerror(6)=2 0 7 1
+numerror(7)=2 0 7 1
+numerror(8)=2 0 7 1
+numerror(9)=2 0 7 1
+numerror(10)=2 0 7 1
+numerror(11)=1 0 6 1
+numerror(12)=1 0 5 1
+numerror(13)=1 0 4 1
+numerror(14)=1 0 4 1
+numerror(15)=1 0 3 1
+numerror(16)=1 0 3 1
+numerror(17)=1 0 2 1
+numerror(18)=1 0 2 1
+numerror(19)=1 0 2 1
+numerror(20)=1 0 2 1
+numerror(21)=1 0 2 1
+numerror(22)=1 0 2 1
+numerror(23)=1 0 2 1
+numerror(24)=1 0 2 1
+numerror(25)=1 0 2 1
+numerror(26)=1 0 2 1
+numerror(27)=1 0 2 1
+numerror(28)=1 0 2 1
+numerror(29)=1 0 2 1
+numerror(30)=1 0 2 1
+numerror(31)=1 0 2 1
+numerror(32)=1 0 2 1
+numerror(33)=1 0 2 1
+numerror(34)=1 0 2 1
+numerror(35)=1 0 2 1
+numerror(36)=1 0 2 1
+numerror(37)=1 0 2 1
+numerror(38)=1 0 2 1
+numerror(39)=1 0 2 1
+numerror(40)=1 0 2 1
+numerror(41)=0 0 1 1
+numerror(42)=0 0 1 1
+numerror(43)=0 0 1 1
+numerror(44)=0 0 1 1
+numerror(45)=0 0 1 1
+numerror(46)=0 0 1 1
+numerror(47)=0 0 1 1
+numerror(48)=0 0 1 1
+numerror(49)=0 0 1 1
+numerror(50)=0 0 1 1
+numerror(51)=0 0 1 1
+numerror(52)=0 0 1 1
+numerror(53)=0 0 1 1
+numerror(54)=0 0 1 1
+numerror(55)=0 0 1 1
+numerror(56)=0 0 1 1
+numerror(57)=0 0 1 1
+numerror(58)=0 0 1 1
+numerror(59)=0 0 1 1
+numerror(60)=0 0 1 1
+numerror(61)=0 0 1 1
+numerror(62)=0 0 1 1
+numerror(63)=0 0 1 1
+numerror(64)=0 0 1 1
+numerror(65)=0 0 1 1
+numerror(66)=0 0 1 1
+numerror(67)=0 0 1 1
+numerror(68)=0 0 1 1
+numerror(69)=0 0 1 1
+numerror(70)=0 0 1 1
+numerror(71)=0 0 1 1
+numerror(72)=0 0 1 1
+numerror(73)=0 0 1 1
+numerror(74)=0 0 1 1
+numerror(75)=0 0 1 1
+numerror(76)=0 0 1 1
+numerror(77)=0 0 1 1
+numerror(78)=0 0 1 1
+numerror(79)=0 0 1 1
+numerror(80)=0 0 1 1
+numerror(81)=0 0 1 1
+numerror(82)=0 0 1 1
+numerror(83)=0 0 1 1
+numerror(84)=0 0 1 1
+numerror(85)=0 0 1 1
+numerror(86)=0 0 1 1
+numerror(87)=0 0 1 1
+numerror(88)=0 0 1 1
+numerror(89)=0 0 1 1
+numerror(90)=0 0 1 1
+numerror(91)=0 0 1 1
+numerror(92)=0 0 1 1
+numerror(93)=0 0 1 1
+numerror(94)=1 0 2 1
+numerror(95)=0 0 1 1
+numerror(96)=0 0 1 1
+numerror(97)=1 0 2 1
+numerror(98)=0 0 1 1
+numerror(99)=0 0 1 1
+numerror(100)=0 0 1 1
+numerror(101)=1 0 2 1
+numerror(102)=0 0 1 1
+numerror(103)=0 0 1 1
+numerror(104)=0 0 1 1
+numerror(105)=0 0 1 1
+numerror(106)=1 0 2 1
+numerror(107)=0 0 1 1
+numerror(108)=0 0 1 1
+numerror(109)=0 0 1 1
+numerror(110)=0 0 1 1
+numerror(111)=1 0 2 1
+numerror(112)=0 0 1 1
+numerror(113)=0 0 1 1
+numerror(114)=0 0 1 1
+numerror(115)=0 0 1 1
+numerror(116)=0 0 1 1
+numerror(117)=0 0 1 1
+numerror(118)=1 0 2 1
+numerror(119)=0 0 1 1
+numerror(120)=0 0 1 1
+numerror(121)=0 0 1 1
+numerror(122)=0 0 1 1
+numerror(123)=0 0 1 1
+numerror(124)=0 0 1 1
+numerror(125)=0 0 1 1
+numerror(126)=1 0 2 1
+numerror(127)=0 0 1 1
+numerror(128)=0 0 1 1
+numerror(129)=0 0 1 1
+numerror(130)=0 0 1 1
+numerror(131)=0 0 1 1
+numerror(132)=0 0 1 1
+numerror(133)=0 0 1 1
+numerror(134)=0 0 1 1
+numerror(135)=0 0 1 1
+numerror(136)=0 0 1 1
+numerror(137)=0 0 1 1
+numerror(138)=0 0 1 1
+numerror(139)=1 0 2 1
+numerror(140)=0 0 1 1
+numerror(141)=0 0 1 1
+numerror(142)=0 0 1 1
+numerror(143)=0 0 1 1
+numerror(144)=0 0 1 1
+numerror(145)=0 0 1 1
+numerror(146)=0 0 1 1
+numerror(147)=0 0 1 1
+numerror(148)=0 0 1 1
+numerror(149)=0 0 1 1
+numerror(150)=0 0 1 1
+(p, q)=6, 7351
+numerror(1)=2 0 7 1
+numerror(2)=2 0 7 1
+numerror(3)=1 0 6 1
+numerror(4)=1 0 6 1
+numerror(5)=1 0 3 1
+numerror(6)=1 0 3 1
+numerror(7)=1 0 2 1
+numerror(8)=1 0 2 1
+numerror(9)=1 0 2 1
+numerror(10)=1 0 2 1
+numerror(11)=1 0 2 1
+numerror(12)=1 0 2 1
+numerror(13)=1 0 2 1
+numerror(14)=1 0 2 1
+numerror(15)=1 0 2 1
+numerror(16)=1 0 2 1
+numerror(17)=1 0 2 1
+numerror(18)=1 0 2 1
+numerror(19)=1 0 2 1
+numerror(20)=1 0 2 1
+numerror(21)=1 0 2 1
+numerror(22)=1 0 2 1
+numerror(23)=1 0 2 1
+numerror(24)=1 0 2 1
+numerror(25)=1 0 2 1
+numerror(26)=0 0 1 1
+numerror(27)=0 0 1 1
+numerror(28)=0 0 1 1
+numerror(29)=0 0 1 1
+numerror(30)=0 0 1 1
+numerror(31)=0 0 1 1
+numerror(32)=0 0 1 1
+numerror(33)=0 0 1 1
+numerror(34)=0 0 1 1
+numerror(35)=0 0 1 1
+numerror(36)=0 0 1 1
+numerror(37)=0 0 1 1
+numerror(38)=0 0 1 1
+numerror(39)=0 0 1 1
+numerror(40)=0 0 1 1
+numerror(41)=0 0 1 1
+numerror(42)=0 0 1 1
+numerror(43)=0 0 1 1
+numerror(44)=0 0 1 1
+numerror(45)=0 0 1 1
+numerror(46)=0 0 1 1
+numerror(47)=0 0 1 1
+numerror(48)=0 0 1 1
+numerror(49)=0 0 1 1
+numerror(50)=0 0 1 1
+numerror(51)=0 0 1 1
+numerror(52)=0 0 1 1
+numerror(53)=0 0 1 1
+numerror(54)=0 0 1 1
+numerror(55)=0 0 1 1
+numerror(56)=0 0 1 1
+numerror(57)=0 0 1 1
+numerror(58)=0 0 1 1
+numerror(59)=0 0 1 1
+numerror(60)=0 0 1 1
+numerror(61)=0 0 1 1
+numerror(62)=0 0 1 1
+numerror(63)=0 0 1 1
+numerror(64)=0 0 1 1
+numerror(65)=0 0 1 1
+numerror(66)=0 0 1 1
+numerror(67)=0 0 1 1
+numerror(68)=0 0 1 1
+numerror(69)=0 0 1 1
+numerror(70)=0 0 1 1
+numerror(71)=0 0 1 1
+numerror(72)=0 0 1 1
+numerror(73)=0 0 1 1
+numerror(74)=0 0 1 1
+numerror(75)=0 0 0 1
+n0=3;k0=6;minnumerror1=0;minnumerror2(k0)=0
+num(1,7)=278
+minnumerror02(1,7)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(1,7)=33.428
+runtime(1,7)=33.443
+runtime(1,7)=33.453
+
+minnumerror2(1,7)=minnumerror2(6)=0
+0  0  0  0  3  0  
+runtime(1,7)=33.473
+
+numerror(1)=0 0 0 -1
+n0=1;k0=7;minnumerror1=0;minnumerror2(k0)=0
+num(2,3)=1
+minnumerror02(2,3)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(2,3)=33.509
+runtime(2,3)=33.514
+runtime(2,3)=33.519
+
+minnumerror2(2,3)=minnumerror2(7)=0
+0  0  0  0  3  0  0  
+runtime(2,3)=33.539
+
+numerror(1)=22 3 19 -1
+numerror(2)=33 2 31 -1
+numerror(3)=32 2 30 -1
+numerror(4)=31 2 29 -1
+numerror(5)=30 2 28 -1
+(p, q)=11, 49
+numerror(1)=14 1 13 -1
+numerror(2)=14 1 13 -1
+numerror(3)=15 1 14 -1
+numerror(4)=16 1 15 -1
+numerror(5)=16 1 15 -1
+numerror(6)=16 1 15 -1
+n0=2;k0=8;minnumerror1=140;minnumerror2(k0)=140
+num(2,4)=11
+minnumerror02(2,4)=1  13  14
+1  13
+0  10
+1  0
+0  3
+0  0
+14
+runtime(2,4)=33.626
+
+ n_tr3=
+
+1  6  6  1
+7  16  10  2
+17  17  1  3
+18  76  59  4
+77  80  4  5
+81  83  3  6
+0  0  0  7
+84  143  60  8
+
+numerror11(1 1)=4 1 3 -1
+numerror11(1 2)=6 2 4 -1
+numerror11(1 4)=8 3 5 -1
+numerror11(1 5)=8 3 5 -1
+numerror11(4 1)=9 3 6 -1
+numerror11(4 2)=11 3 8 -1
+numerror11(4 4)=11 3 8 -1
+numerror11(4 5)=11 3 8 -1
+(n, minnumerror3)=(10, 4, 1, 3)
+num(2,4,1)=10
+
+numerror11(1 1)=2 0 2 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=3 0 3 -1
+numerror11(1 5)=3 0 3 -1
+numerror11(5 1)=3 0 3 -1
+numerror11(5 2)=3 0 3 -1
+numerror11(5 4)=2 0 2 -1
+numerror11(5 6)=2 0 2 -1
+numerror11(5 8)=2 0 2 -1
+numerror11(5 10)=2 0 2 -1
+numerror11(5 12)=2 0 2 -1
+numerror11(5 14)=2 0 2 -1
+numerror11(5 16)=2 0 2 -1
+numerror11(5 18)=2 0 2 -1
+numerror11(5 20)=2 0 2 -1
+numerror11(5 22)=2 0 2 -1
+numerror11(5 24)=2 0 2 -1
+numerror11(5 26)=2 0 2 -1
+numerror11(5 28)=2 0 2 -1
+numerror11(5 30)=2 0 2 -1
+numerror11(5 32)=2 0 2 -1
+numerror11(5 34)=2 0 2 -1
+numerror11(5 36)=1 0 1 -1
+numerror11(5 38)=1 0 1 -1
+numerror11(5 40)=1 0 1 -1
+numerror11(5 42)=1 0 1 -1
+numerror11(5 44)=1 0 1 -1
+numerror11(5 46)=1 0 1 -1
+numerror11(5 48)=1 0 1 -1
+numerror11(5 50)=1 0 1 -1
+numerror11(5 52)=1 0 1 -1
+numerror11(5 54)=1 0 1 -1
+numerror11(5 56)=1 0 1 -1
+numerror11(5 58)=1 0 1 -1
+numerror11(5 60)=1 0 1 -1
+numerror11(5 62)=1 0 1 -1
+numerror11(5 64)=1 0 1 -1
+numerror11(5 66)=1 0 1 -1
+numerror11(5 68)=1 0 1 -1
+numerror11(5 70)=1 0 1 -1
+numerror11(5 72)=1 0 1 -1
+numerror11(5 74)=1 0 1 -1
+numerror11(5 76)=1 0 1 -1
+numerror11(5 78)=1 0 1 -1
+numerror11(5 80)=1 0 1 -1
+numerror11(5 82)=1 0 1 -1
+numerror11(5 84)=1 0 1 -1
+numerror11(5 86)=1 0 1 -1
+numerror11(5 88)=1 0 1 -1
+numerror11(5 90)=1 0 1 -1
+numerror11(5 91)=0 0 0 -1
+(n, minnumerror3)=(96, 0, 0, 0)
+num(2,4,2)=96
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(2,4,3)=1
+
+minnumerror3_1(1,2,3,4)=4 0 0 0, sum=4
+minnumerror2(2,4)=minnumerror2(8)=4
+minnumerror4(1, 2, 3, 4)=4 0 0 0, sum=4
+1  3
+1  3
+0  0
+0  0
+0  0
+4
+minnumerror2(2,4)=minnumerror2(8)=4
+minnumerror4(1, 2, 3, 4)=4 0 0 0, sum=4
+runtime(2,4)=33.999
+
+ w12*w5=-3.46945e-018
+
+ n_tr5=
+1  3  3  1
+4  9  6  2
+0  0  0  3
+10  38  29  4
+39  40  2  5
+41  41  1  6
+0  0  0  7
+42  71  30  8
+72  74  3  9
+75  78  4  10
+79  79  1  11
+80  109  30  12
+110  111  2  13
+112  113  2  14
+0  0  0  15
+114  143  30  16
+
+numerror11(1 1)=1 0 1 -1
+numerror11(1 2)=1 0 1 -1
+numerror11(1 4)=1 0 1 -1
+numerror11(1 6)=1 0 1 -1
+numerror11(1 8)=1 0 1 -1
+numerror11(1 10)=1 0 1 -1
+numerror11(1 12)=1 0 1 -1
+numerror11(1 14)=1 0 1 -1
+numerror11(1 16)=1 0 1 -1
+numerror11(1 18)=1 0 1 -1
+numerror11(1 20)=1 0 1 -1
+numerror11(1 22)=1 0 1 -1
+numerror11(1 24)=1 0 1 -1
+numerror11(1 26)=1 0 1 -1
+numerror11(1 28)=1 0 1 -1
+numerror11(1 30)=1 0 1 -1
+numerror11(1 32)=1 0 1 -1
+numerror11(1 34)=1 0 1 -1
+numerror11(1 36)=1 0 1 -1
+numerror11(1 38)=1 0 1 -1
+numerror11(1 40)=1 0 1 -1
+numerror11(1 42)=1 0 1 -1
+numerror11(1 44)=1 0 1 -1
+numerror11(1 46)=1 0 1 -1
+numerror11(1 48)=1 0 1 -1
+numerror11(1 50)=1 0 1 -1
+numerror11(1 52)=1 0 1 -1
+numerror11(1 54)=1 0 1 -1
+numerror11(1 56)=1 0 1 -1
+numerror11(1 58)=1 0 1 -1
+numerror11(1 60)=1 0 1 -1
+numerror11(1 62)=1 0 1 -1
+numerror11(1 64)=1 0 1 -1
+numerror11(1 66)=1 0 1 -1
+numerror11(1 68)=2 0 2 -1
+numerror11(1 70)=1 0 1 -1
+numerror11(1 72)=2 0 2 -1
+numerror11(1 74)=1 0 1 -1
+numerror11(1 76)=2 0 2 -1
+numerror11(1 78)=1 0 1 -1
+numerror11(1 80)=2 0 2 -1
+numerror11(1 82)=1 0 1 -1
+numerror11(1 84)=2 0 2 -1
+numerror11(1 86)=3 1 2 -1
+numerror11(1 88)=1 1 0 -1
+numerror11(1 90)=1 1 0 -1
+numerror11(1 92)=1 1 0 -1
+numerror11(1 94)=1 1 0 -1
+numerror11(1 96)=1 1 0 -1
+numerror11(1 98)=1 1 0 -1
+numerror11(1 100)=1 1 0 -1
+numerror11(1 102)=1 1 0 -1
+numerror11(1 104)=1 1 0 -1
+numerror11(1 106)=1 1 0 -1
+numerror11(1 108)=1 1 0 -1
+numerror11(1 110)=1 1 0 -1
+numerror11(1 112)=1 1 0 -1
+numerror11(1 114)=2 1 1 -1
+numerror11(1 116)=2 1 1 -1
+numerror11(1 118)=2 1 1 -1
+numerror11(1 119)=2 1 1 -1
+numerror11(3 1)=2 1 1 -1
+numerror11(3 2)=2 1 1 -1
+numerror11(3 4)=2 1 1 -1
+numerror11(3 6)=1 1 0 -1
+numerror11(3 8)=3 1 2 -1
+numerror11(3 10)=1 0 1 -1
+numerror11(3 12)=2 1 1 -1
+numerror11(3 14)=3 1 2 -1
+numerror11(3 16)=1 0 1 -1
+numerror11(3 18)=2 1 1 -1
+numerror11(3 20)=3 1 2 -1
+numerror11(3 22)=2 1 1 -1
+numerror11(3 24)=3 1 2 -1
+numerror11(3 26)=2 1 1 -1
+numerror11(3 28)=2 0 2 -1
+numerror11(3 30)=1 0 1 -1
+numerror11(3 32)=1 0 1 -1
+numerror11(3 34)=2 1 1 -1
+numerror11(3 36)=1 0 1 -1
+numerror11(3 38)=1 0 1 -1
+numerror11(3 40)=1 0 1 -1
+numerror11(3 42)=1 0 1 -1
+numerror11(3 44)=2 1 1 -1
+numerror11(3 46)=1 0 1 -1
+numerror11(3 48)=2 1 1 -1
+numerror11(3 50)=1 0 1 -1
+numerror11(3 52)=1 0 1 -1
+numerror11(3 54)=1 0 1 -1
+numerror11(3 56)=1 0 1 -1
+numerror11(3 58)=1 0 1 -1
+numerror11(3 60)=1 0 1 -1
+numerror11(3 62)=1 0 1 -1
+numerror11(3 64)=1 0 1 -1
+numerror11(3 66)=1 0 1 -1
+numerror11(3 68)=1 0 1 -1
+numerror11(3 70)=1 0 1 -1
+numerror11(3 72)=1 0 1 -1
+numerror11(3 74)=1 0 1 -1
+numerror11(3 76)=1 0 1 -1
+numerror11(3 78)=1 0 1 -1
+numerror11(3 80)=1 0 1 -1
+numerror11(3 82)=1 0 1 -1
+numerror11(3 84)=1 0 1 -1
+numerror11(3 86)=1 0 1 -1
+numerror11(3 88)=1 0 1 -1
+numerror11(3 90)=1 0 1 -1
+numerror11(3 92)=1 0 1 -1
+numerror11(3 94)=1 0 1 -1
+numerror11(3 96)=1 0 1 -1
+numerror11(3 98)=1 0 1 -1
+numerror11(3 100)=1 0 1 -1
+numerror11(3 102)=1 0 1 -1
+numerror11(3 104)=1 0 1 -1
+numerror11(3 106)=2 1 1 -1
+numerror11(3 108)=1 0 1 -1
+numerror11(3 110)=1 0 1 -1
+numerror11(3 112)=2 1 1 -1
+numerror11(3 114)=1 0 1 -1
+numerror11(3 116)=1 0 1 -1
+numerror11(3 118)=1 0 1 -1
+numerror11(3 120)=1 0 1 -1
+numerror11(3 122)=2 1 1 -1
+numerror11(3 124)=1 0 1 -1
+numerror11(3 126)=2 1 1 -1
+numerror11(3 128)=1 0 1 -1
+numerror11(3 130)=2 1 1 -1
+numerror11(3 132)=1 0 1 -1
+numerror11(3 134)=2 1 1 -1
+numerror11(3 136)=1 0 1 -1
+numerror11(3 138)=2 1 1 -1
+numerror11(3 140)=1 0 1 -1
+numerror11(3 142)=2 1 1 -1
+numerror11(3 144)=1 0 1 -1
+numerror11(3 146)=1 0 1 -1
+numerror11(3 148)=2 1 1 -1
+numerror11(3 150)=1 0 1 -1
+numerror11(3 150)=1 0 1 -1
+(n, minnumerror3)=(269, 1, 1, 0)
+num(2,4,1)=269
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(2,4,5)=1
+
+minnumerror5=1  0  0  0  0  0  0  0, sum=1
+minnumerror6=1  0  0  0  0  0  0  0, sum=1
+minnumerror6=1  0  0  0  0  0  0  0, sum=1
+1  0
+1  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+1
+runtime(2,4)=34.854
+
+minnumerror2(2,4)=minnumerror2(8)=1
+0  0  0  0  3  0  0  1  
+runtime(2,4)=34.889
+
+numerror(1)=0 0 0 1
+n0=1;k0=9;minnumerror1=0;minnumerror2(k0)=0
+num(2,5)=1
+minnumerror02(2,5)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(2,5)=34.92
+runtime(2,5)=34.925
+runtime(2,5)=34.93
+
+minnumerror2(2,5)=minnumerror2(9)=0
+0  0  0  0  3  0  0  1  0  
+runtime(2,5)=34.95
+
+numerror(1)=0 0 1 1
+numerror(2)=0 0 1 1
+numerror(3)=0 0 1 1
+numerror(4)=0 0 1 1
+numerror(5)=0 0 1 1
+numerror(6)=0 0 1 1
+numerror(7)=0 0 1 1
+numerror(8)=0 0 1 1
+numerror(9)=0 0 1 1
+numerror(10)=0 0 1 1
+numerror(11)=0 0 1 1
+numerror(12)=0 0 0 1
+n0=1;k0=10;minnumerror1=0;minnumerror2(k0)=0
+num(2,6)=12
+minnumerror02(2,6)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(2,6)=35.546
+runtime(2,6)=35.551
+runtime(2,6)=35.556
+
+minnumerror2(2,6)=minnumerror2(10)=0
+0  0  0  0  3  0  0  1  0  0  
+runtime(2,6)=35.581
+
+numerror(1)=16 0 65 1
+numerror(2)=16 0 68 1
+numerror(3)=24 0 99 1
+numerror(4)=26 0 110 1
+numerror(5)=27 0 111 1
+(p, q)=11, 10045
+numerror(1)=14 0 58 1
+numerror(2)=14 0 56 1
+numerror(3)=13 0 54 1
+numerror(4)=9 0 37 1
+numerror(5)=9 0 36 1
+numerror(6)=10 0 39 1
+numerror(7)=10 0 43 1
+numerror(8)=10 0 43 1
+numerror(9)=10 0 41 1
+(p, q)=11, 4843
+numerror(1)=2 0 9 1
+numerror(2)=2 0 9 1
+numerror(3)=2 0 9 1
+numerror(4)=2 0 9 1
+numerror(5)=2 0 9 1
+numerror(6)=2 0 9 1
+numerror(7)=2 0 9 1
+numerror(8)=2 0 9 1
+numerror(9)=2 0 9 1
+numerror(10)=2 0 9 1
+numerror(11)=2 0 9 1
+numerror(12)=2 0 9 1
+numerror(13)=2 0 9 1
+numerror(14)=2 0 9 1
+numerror(15)=2 0 9 1
+numerror(16)=2 0 9 1
+numerror(17)=2 0 9 1
+numerror(18)=2 0 9 1
+numerror(19)=3 0 12 1
+numerror(20)=3 0 12 1
+numerror(21)=3 0 13 1
+numerror(22)=5 0 18 1
+(p, q)=11, 2231
+numerror(1)=2 0 8 1
+numerror(2)=2 0 8 1
+numerror(3)=2 0 8 1
+numerror(4)=2 0 8 1
+numerror(5)=2 0 8 1
+numerror(6)=2 0 8 1
+numerror(7)=2 0 8 1
+numerror(8)=2 0 8 1
+numerror(9)=2 0 8 1
+numerror(10)=2 0 8 1
+numerror(11)=2 0 8 1
+numerror(12)=2 0 8 1
+numerror(13)=2 0 8 1
+numerror(14)=2 0 8 1
+numerror(15)=2 0 8 1
+numerror(16)=3 0 11 1
+numerror(17)=3 0 10 1
+numerror(18)=3 0 11 1
+numerror(19)=3 0 11 1
+(p, q)=11, 839
+numerror(1)=2 0 7 1
+numerror(2)=2 0 7 1
+numerror(3)=2 0 6 1
+numerror(4)=2 0 6 1
+numerror(5)=2 0 6 1
+numerror(6)=2 0 6 1
+numerror(7)=2 0 6 1
+numerror(8)=2 0 6 1
+numerror(9)=2 0 6 1
+numerror(10)=2 0 6 1
+numerror(11)=2 0 6 1
+numerror(12)=2 0 6 1
+numerror(13)=2 0 6 1
+numerror(14)=2 0 6 1
+numerror(15)=2 0 6 1
+numerror(16)=2 0 6 1
+numerror(17)=2 0 6 1
+numerror(18)=2 0 6 1
+numerror(19)=2 0 8 1
+numerror(20)=2 0 8 1
+numerror(21)=2 0 8 1
+numerror(22)=2 0 8 1
+(p, q)=11, 328
+numerror(1)=1 0 5 1
+numerror(2)=1 0 5 1
+numerror(3)=1 0 5 1
+numerror(4)=1 0 4 1
+numerror(5)=1 0 4 1
+numerror(6)=1 0 4 1
+numerror(7)=1 0 4 1
+numerror(8)=1 0 4 1
+numerror(9)=1 0 4 1
+numerror(10)=1 0 4 1
+numerror(11)=1 0 4 1
+numerror(12)=1 0 4 1
+numerror(13)=1 0 4 1
+numerror(14)=1 0 4 1
+numerror(15)=1 0 4 1
+numerror(16)=1 0 4 1
+numerror(17)=1 0 4 1
+numerror(18)=1 0 4 1
+numerror(19)=1 0 4 1
+numerror(20)=1 0 4 1
+numerror(21)=1 0 5 1
+numerror(22)=1 0 5 1
+numerror(23)=1 0 5 1
+numerror(24)=2 0 6 1
+(p, q)=11, 157
+numerror(1)=11 0 44 -1
+numerror(2)=1 0 1 -1
+numerror(3)=1 0 1 -1
+numerror(4)=1 0 1 -1
+numerror(5)=1 0 1 -1
+numerror(6)=1 0 1 -1
+numerror(7)=1 0 1 -1
+numerror(8)=1 0 1 -1
+numerror(9)=1 0 1 -1
+numerror(10)=1 0 1 -1
+numerror(11)=1 0 1 -1
+numerror(12)=1 0 1 -1
+numerror(13)=1 0 1 -1
+numerror(14)=1 0 1 -1
+numerror(15)=1 0 1 -1
+numerror(16)=1 0 1 -1
+numerror(17)=1 0 1 -1
+numerror(18)=1 0 1 -1
+numerror(19)=1 0 1 -1
+numerror(20)=1 0 1 -1
+numerror(21)=1 0 1 -1
+numerror(22)=0 0 0 -1
+n0=7;k0=11;minnumerror1=0;minnumerror2(k0)=0
+num(2,7)=123
+minnumerror02(2,7)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(2,7)=40.729
+runtime(2,7)=40.734
+runtime(2,7)=40.739
+
+minnumerror2(2,7)=minnumerror2(11)=0
+0  0  0  0  3  0  0  1  0  0  0  
+runtime(2,7)=40.759
+
+numerror(1)=0 0 0 1
+n0=1;k0=12;minnumerror1=0;minnumerror2(k0)=0
+num(3,4)=1
+minnumerror02(3,4)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(3,4)=40.785
+runtime(3,4)=40.79
+runtime(3,4)=40.795
+
+minnumerror2(3,4)=minnumerror2(12)=0
+0  0  0  0  3  0  0  1  0  0  0  0  
+runtime(3,4)=40.82
+
+numerror(1)=2470 0 10 1
+numerror(2)=2470 0 10 1
+numerror(3)=2470 0 7 1
+numerror(4)=2470 0 5 1
+numerror(5)=2470 0 5 1
+numerror(6)=2470 0 4 1
+numerror(7)=2470 0 4 1
+numerror(8)=2470 0 4 1
+numerror(9)=2470 0 2 1
+numerror(10)=2470 0 2 1
+numerror(11)=2470 0 1 1
+numerror(12)=2470 0 1 1
+numerror(13)=2470 0 1 1
+numerror(14)=2470 0 1 1
+numerror(15)=2470 0 1 1
+numerror(16)=2470 0 1 1
+numerror(17)=2470 0 1 1
+numerror(18)=2470 0 1 1
+numerror(19)=2470 0 1 1
+numerror(20)=2470 0 1 1
+numerror(21)=2470 0 1 1
+numerror(22)=2470 0 1 1
+numerror(23)=2470 0 1 1
+numerror(24)=2470 0 1 1
+numerror(25)=2470 0 1 1
+numerror(26)=2470 0 1 1
+numerror(27)=2470 0 1 1
+numerror(28)=2470 0 1 1
+numerror(29)=2470 0 1 1
+numerror(30)=2470 0 1 1
+numerror(31)=2470 0 1 1
+numerror(32)=2470 0 1 1
+numerror(33)=2470 0 1 1
+numerror(34)=2470 0 1 1
+numerror(35)=2470 0 1 1
+numerror(36)=2470 0 1 1
+numerror(37)=2470 0 1 1
+numerror(38)=2470 0 1 1
+numerror(39)=2470 0 1 1
+numerror(40)=2470 0 1 1
+numerror(41)=2470 0 1 1
+numerror(42)=2470 0 1 1
+numerror(43)=2470 0 1 1
+numerror(44)=2470 0 1 1
+numerror(45)=2470 0 1 1
+numerror(46)=2470 0 1 1
+numerror(47)=2470 0 1 1
+numerror(48)=2470 0 1 1
+numerror(49)=2470 0 1 1
+numerror(50)=2470 0 1 1
+numerror(51)=2470 0 1 1
+numerror(52)=2470 0 1 1
+numerror(53)=2470 0 1 1
+numerror(54)=2470 0 1 1
+numerror(55)=2470 0 1 1
+numerror(56)=2470 0 1 1
+numerror(57)=2470 0 1 1
+numerror(58)=2470 0 1 1
+numerror(59)=2470 0 1 1
+numerror(60)=2470 0 1 1
+numerror(61)=2470 0 1 1
+numerror(62)=2470 0 1 1
+numerror(63)=2470 0 1 1
+numerror(64)=2470 0 1 1
+numerror(65)=2470 0 1 1
+numerror(66)=2470 0 1 1
+numerror(67)=2470 0 1 1
+numerror(68)=2470 0 1 1
+numerror(69)=2470 0 1 1
+numerror(70)=2470 0 1 1
+numerror(71)=2470 0 1 1
+numerror(72)=2470 0 1 1
+numerror(73)=0 0 0 1
+n0=1;k0=13;minnumerror1=0;minnumerror2(k0)=0
+num(3,5)=73
+minnumerror02(3,5)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(3,5)=41.618
+runtime(3,5)=41.623
+runtime(3,5)=41.628
+
+minnumerror2(3,5)=minnumerror2(13)=0
+0  0  0  0  3  0  0  1  0  0  0  0  0  
+runtime(3,5)=41.653
+
+numerror(1)=2 0 6 1
+numerror(2)=2 0 6 1
+numerror(3)=2 0 6 1
+numerror(4)=2 0 6 1
+numerror(5)=2 0 6 1
+numerror(6)=2 0 6 1
+numerror(7)=2 0 6 1
+numerror(8)=2 0 6 1
+numerror(9)=2 0 6 1
+numerror(10)=2 0 6 1
+numerror(11)=2 0 6 1
+numerror(12)=3 0 7 1
+numerror(13)=114 1 7 1
+numerror(14)=114 1 7 1
+numerror(15)=114 1 7 1
+(p, q)=37, 3296
+numerror(1)=2 0 6 1
+numerror(2)=2 0 6 1
+numerror(3)=2 0 6 1
+numerror(4)=2 0 5 1
+numerror(5)=1 0 4 1
+numerror(6)=1 0 4 1
+numerror(7)=2 0 5 1
+numerror(8)=2 0 5 1
+numerror(9)=2 0 5 1
+numerror(10)=2 0 5 1
+(p, q)=37, 1485
+numerror(1)=1 0 3 1
+numerror(2)=1 0 4 1
+numerror(3)=1 0 4 1
+numerror(4)=1 0 4 1
+numerror(5)=1 0 4 1
+(p, q)=37, 737
+numerror(1)=1 0 3 1
+numerror(2)=1 0 3 1
+numerror(3)=112 1 1 1
+numerror(4)=112 1 1 1
+numerror(5)=1 0 3 1
+numerror(6)=112 1 1 1
+numerror(7)=112 1 1 1
+numerror(8)=0 0 1 1
+numerror(9)=0 0 1 1
+numerror(10)=0 0 1 1
+numerror(11)=0 0 1 1
+numerror(12)=0 0 1 1
+numerror(13)=0 0 1 1
+numerror(14)=0 0 1 1
+numerror(15)=0 0 1 1
+numerror(16)=0 0 1 1
+numerror(17)=0 0 1 1
+numerror(18)=0 0 1 1
+numerror(19)=0 0 1 1
+numerror(20)=0 0 1 1
+numerror(21)=0 0 1 1
+numerror(22)=0 0 1 1
+numerror(23)=0 0 1 1
+numerror(24)=0 0 1 1
+numerror(25)=0 0 1 1
+numerror(26)=0 0 1 1
+numerror(27)=0 0 1 1
+numerror(28)=0 0 1 1
+numerror(29)=0 0 1 1
+numerror(30)=0 0 1 1
+numerror(31)=0 0 1 1
+numerror(32)=0 0 1 1
+numerror(33)=0 0 1 1
+numerror(34)=0 0 1 1
+numerror(35)=0 0 1 1
+numerror(36)=0 0 1 1
+numerror(37)=0 0 1 1
+numerror(38)=0 0 1 1
+numerror(39)=0 0 1 1
+numerror(40)=0 0 1 1
+numerror(41)=0 0 1 1
+numerror(42)=0 0 1 1
+numerror(43)=0 0 1 1
+numerror(44)=0 0 1 1
+numerror(45)=0 0 1 1
+numerror(46)=0 0 1 1
+numerror(47)=0 0 1 1
+numerror(48)=0 0 1 1
+numerror(49)=0 0 1 1
+numerror(50)=0 0 1 1
+numerror(51)=0 0 1 1
+numerror(52)=0 0 1 1
+numerror(53)=0 0 1 1
+numerror(54)=0 0 1 1
+numerror(55)=0 0 1 1
+numerror(56)=0 0 1 1
+numerror(57)=0 0 1 1
+numerror(58)=0 0 1 1
+numerror(59)=0 0 1 1
+numerror(60)=0 0 1 1
+numerror(61)=0 0 1 1
+numerror(62)=0 0 1 1
+numerror(63)=0 0 1 1
+numerror(64)=0 0 1 1
+numerror(65)=0 0 1 1
+numerror(66)=0 0 1 1
+numerror(67)=0 0 1 1
+numerror(68)=0 0 1 1
+numerror(69)=0 0 1 1
+numerror(70)=0 0 1 1
+numerror(71)=0 0 1 1
+numerror(72)=0 0 1 1
+numerror(73)=0 0 1 1
+numerror(74)=0 0 1 1
+numerror(75)=0 0 1 1
+numerror(76)=0 0 1 1
+numerror(77)=0 0 1 1
+numerror(78)=0 0 1 1
+numerror(79)=0 0 1 1
+numerror(80)=0 0 1 1
+numerror(81)=0 0 1 1
+numerror(82)=0 0 1 1
+numerror(83)=0 0 1 1
+numerror(84)=0 0 1 1
+numerror(85)=0 0 1 1
+numerror(86)=0 0 1 1
+numerror(87)=0 0 1 1
+numerror(88)=0 0 1 1
+numerror(89)=0 0 1 1
+numerror(90)=0 0 1 1
+numerror(91)=0 0 1 1
+numerror(92)=0 0 1 1
+numerror(93)=0 0 1 1
+numerror(94)=0 0 1 1
+numerror(95)=0 0 1 1
+numerror(96)=0 0 1 1
+numerror(97)=0 0 1 1
+numerror(98)=0 0 1 1
+numerror(99)=0 0 1 1
+numerror(100)=0 0 1 1
+numerror(101)=0 0 1 1
+numerror(102)=0 0 1 1
+numerror(103)=0 0 1 1
+numerror(104)=0 0 1 1
+numerror(105)=0 0 1 1
+numerror(106)=0 0 1 1
+numerror(107)=0 0 1 1
+numerror(108)=0 0 1 1
+numerror(109)=0 0 1 1
+numerror(110)=0 0 1 1
+numerror(111)=0 0 1 1
+numerror(112)=0 0 1 1
+numerror(113)=0 0 1 1
+numerror(114)=0 0 1 1
+numerror(115)=0 0 1 1
+numerror(116)=0 0 1 1
+numerror(117)=0 0 1 1
+numerror(118)=0 0 1 1
+numerror(119)=0 0 1 1
+numerror(120)=0 0 1 1
+numerror(121)=0 0 1 1
+numerror(122)=0 0 1 1
+numerror(123)=0 0 1 1
+numerror(124)=0 0 1 1
+numerror(125)=0 0 1 1
+numerror(126)=0 0 1 1
+numerror(127)=0 0 1 1
+numerror(128)=0 0 1 1
+numerror(129)=0 0 1 1
+numerror(130)=0 0 1 1
+numerror(131)=0 0 1 1
+numerror(132)=0 0 1 1
+numerror(133)=0 0 1 1
+numerror(134)=0 0 1 1
+numerror(135)=0 0 1 1
+numerror(136)=0 0 1 1
+numerror(137)=0 0 1 1
+numerror(138)=0 0 1 1
+numerror(139)=0 0 1 1
+numerror(140)=0 0 1 1
+numerror(141)=0 0 1 1
+numerror(142)=0 0 1 1
+numerror(143)=0 0 1 1
+numerror(144)=0 0 1 1
+numerror(145)=0 0 1 1
+numerror(146)=0 0 1 1
+numerror(147)=0 0 1 1
+numerror(148)=0 0 1 1
+numerror(149)=0 0 1 1
+numerror(150)=0 0 1 1
+(p, q)=37, 293
+numerror(1)=1 0 3 1
+numerror(2)=112 1 1 1
+numerror(3)=112 1 1 1
+numerror(4)=0 0 1 1
+numerror(5)=0 0 1 1
+numerror(6)=0 0 1 1
+numerror(7)=0 0 1 1
+numerror(8)=0 0 1 1
+numerror(9)=0 0 1 1
+numerror(10)=0 0 1 1
+numerror(11)=0 0 1 1
+numerror(12)=0 0 1 1
+numerror(13)=0 0 1 1
+numerror(14)=0 0 1 1
+numerror(15)=0 0 1 1
+numerror(16)=0 0 1 1
+numerror(17)=0 0 1 1
+numerror(18)=0 0 1 1
+numerror(19)=0 0 1 1
+numerror(20)=0 0 1 1
+numerror(21)=0 0 1 1
+numerror(22)=0 0 1 1
+numerror(23)=0 0 1 1
+numerror(24)=0 0 1 1
+numerror(25)=0 0 1 1
+numerror(26)=0 0 1 1
+numerror(27)=0 0 1 1
+numerror(28)=0 0 1 1
+numerror(29)=0 0 1 1
+numerror(30)=0 0 1 1
+numerror(31)=0 0 1 1
+numerror(32)=0 0 1 1
+numerror(33)=0 0 1 1
+numerror(34)=0 0 1 1
+numerror(35)=0 0 1 1
+numerror(36)=0 0 1 1
+numerror(37)=0 0 1 1
+numerror(38)=0 0 1 1
+numerror(39)=0 0 1 1
+numerror(40)=0 0 1 1
+numerror(41)=0 0 1 1
+numerror(42)=0 0 1 1
+numerror(43)=0 0 1 1
+numerror(44)=0 0 1 1
+numerror(45)=0 0 1 1
+numerror(46)=0 0 1 1
+numerror(47)=0 0 1 1
+numerror(48)=0 0 1 1
+numerror(49)=0 0 1 1
+numerror(50)=0 0 1 1
+numerror(51)=0 0 1 1
+numerror(52)=0 0 1 1
+numerror(53)=0 0 1 1
+numerror(54)=0 0 1 1
+numerror(55)=0 0 1 1
+numerror(56)=0 0 1 1
+numerror(57)=0 0 1 1
+numerror(58)=0 0 1 1
+numerror(59)=0 0 1 1
+numerror(60)=0 0 1 1
+numerror(61)=0 0 1 1
+numerror(62)=0 0 1 1
+numerror(63)=0 0 1 1
+numerror(64)=0 0 1 1
+numerror(65)=0 0 1 1
+numerror(66)=0 0 1 1
+numerror(67)=0 0 1 1
+numerror(68)=0 0 1 1
+numerror(69)=0 0 1 1
+numerror(70)=0 0 1 1
+numerror(71)=0 0 1 1
+numerror(72)=0 0 1 1
+numerror(73)=0 0 1 1
+numerror(74)=0 0 1 1
+numerror(75)=0 0 1 1
+numerror(76)=0 0 1 1
+numerror(77)=0 0 1 1
+numerror(78)=0 0 1 1
+numerror(79)=0 0 1 1
+numerror(80)=0 0 1 1
+numerror(81)=0 0 1 1
+numerror(82)=0 0 1 1
+numerror(83)=0 0 1 1
+numerror(84)=0 0 1 1
+numerror(85)=0 0 1 1
+numerror(86)=0 0 1 1
+numerror(87)=0 0 1 1
+numerror(88)=0 0 1 1
+numerror(89)=0 0 1 1
+numerror(90)=0 0 1 1
+numerror(91)=0 0 1 1
+numerror(92)=0 0 1 1
+numerror(93)=0 0 1 1
+numerror(94)=0 0 1 1
+numerror(95)=0 0 1 1
+numerror(96)=0 0 1 1
+numerror(97)=0 0 1 1
+numerror(98)=0 0 1 1
+numerror(99)=0 0 1 1
+numerror(100)=0 0 1 1
+numerror(101)=0 0 1 1
+numerror(102)=0 0 1 1
+numerror(103)=0 0 1 1
+numerror(104)=0 0 1 1
+numerror(105)=0 0 1 1
+numerror(106)=0 0 1 1
+numerror(107)=0 0 1 1
+numerror(108)=0 0 1 1
+numerror(109)=0 0 1 1
+numerror(110)=0 0 1 1
+numerror(111)=0 0 1 1
+numerror(112)=0 0 1 1
+numerror(113)=0 0 1 1
+numerror(114)=0 0 1 1
+numerror(115)=0 0 1 1
+numerror(116)=0 0 1 1
+numerror(117)=0 0 1 1
+numerror(118)=0 0 1 1
+numerror(119)=0 0 1 1
+numerror(120)=0 0 1 1
+numerror(121)=0 0 1 1
+numerror(122)=0 0 1 1
+numerror(123)=0 0 1 1
+numerror(124)=0 0 1 1
+numerror(125)=0 0 1 1
+numerror(126)=0 0 1 1
+numerror(127)=0 0 1 1
+numerror(128)=0 0 1 1
+numerror(129)=0 0 1 1
+numerror(130)=0 0 1 1
+numerror(131)=0 0 1 1
+numerror(132)=0 0 1 1
+numerror(133)=0 0 1 1
+numerror(134)=0 0 1 1
+numerror(135)=0 0 1 1
+numerror(136)=0 0 1 1
+numerror(137)=0 0 1 1
+numerror(138)=0 0 1 1
+numerror(139)=0 0 1 1
+numerror(140)=0 0 1 1
+numerror(141)=0 0 1 1
+numerror(142)=0 0 1 1
+numerror(143)=0 0 1 1
+numerror(144)=0 0 1 1
+numerror(145)=0 0 1 1
+numerror(146)=0 0 1 1
+numerror(147)=0 0 1 1
+numerror(148)=0 0 1 1
+numerror(149)=0 0 1 1
+numerror(150)=0 0 1 1
+(p, q)=37, 115
+numerror(1)=122 1 28 -1
+num(3,6)=331
+minnumerror02(3,6)=0  1  1
+0  1
+0  1
+0  0
+0  0
+0  0
+1
+runtime(3,6)=44.324
+runtime(3,6)=44.329
+runtime(3,6)=44.334
+
+minnumerror2(3,6)=minnumerror2(14)=1
+0  0  0  0  3  0  0  1  0  0  0  0  0  1  
+runtime(3,6)=44.359
+
+numerror(1)=4 0 11 1
+numerror(2)=4 0 11 1
+numerror(3)=4 0 11 1
+numerror(4)=4 0 11 1
+numerror(5)=4 0 11 1
+numerror(6)=4 0 11 1
+numerror(7)=4 0 11 1
+numerror(8)=4 0 11 1
+numerror(9)=4 0 11 1
+numerror(10)=4 0 10 1
+numerror(11)=4 0 10 1
+numerror(12)=4 0 10 1
+numerror(13)=4 0 10 1
+numerror(14)=4 0 10 1
+numerror(15)=4 0 10 1
+numerror(16)=4 0 10 1
+numerror(17)=4 0 11 1
+numerror(18)=4 0 11 1
+numerror(19)=9 0 26 1
+numerror(20)=21 0 66 1
+(p, q)=37, 14352
+numerror(1)=4 0 11 1
+numerror(2)=4 0 11 1
+numerror(3)=4 0 11 1
+numerror(4)=4 0 11 1
+numerror(5)=4 0 10 1
+numerror(6)=4 0 10 1
+numerror(7)=4 0 10 1
+numerror(8)=3 0 9 1
+numerror(9)=3 0 8 1
+numerror(10)=3 0 8 1
+numerror(11)=3 0 8 1
+numerror(12)=3 0 8 1
+numerror(13)=3 0 8 1
+numerror(14)=3 0 7 1
+numerror(15)=3 0 7 1
+numerror(16)=2 0 5 1
+numerror(17)=2 0 4 1
+numerror(18)=2 0 4 1
+numerror(19)=2 0 4 1
+numerror(20)=2 0 4 1
+numerror(21)=641 1 5 1
+numerror(22)=641 1 5 1
+numerror(23)=643 1 11 1
+numerror(24)=644 1 17 1
+(p, q)=37, 6292
+numerror(1)=4 0 11 1
+numerror(2)=4 0 10 1
+numerror(3)=3 0 9 1
+numerror(4)=3 0 9 1
+numerror(5)=3 0 9 1
+numerror(6)=2 0 5 1
+numerror(7)=2 0 4 1
+numerror(8)=2 0 4 1
+numerror(9)=2 0 4 1
+numerror(10)=2 0 4 1
+numerror(11)=2 0 4 1
+numerror(12)=2 0 4 1
+numerror(13)=2 0 4 1
+numerror(14)=2 0 4 1
+numerror(15)=2 0 4 1
+numerror(16)=2 0 4 1
+numerror(17)=2 0 4 1
+numerror(18)=2 0 4 1
+numerror(19)=2 0 4 1
+numerror(20)=640 1 3 1
+numerror(21)=640 1 3 1
+numerror(22)=640 1 3 1
+numerror(23)=1288 2 3 1
+(p, q)=37, 2271
+numerror(1)=3 0 9 1
+numerror(2)=3 0 8 1
+numerror(3)=3 0 8 1
+numerror(4)=2 0 5 1
+numerror(5)=2 0 5 1
+numerror(6)=2 0 4 1
+numerror(7)=2 0 4 1
+numerror(8)=2 0 4 1
+numerror(9)=2 0 4 1
+numerror(10)=2 0 4 1
+numerror(11)=2 0 4 1
+numerror(12)=2 0 4 1
+numerror(13)=1 0 3 1
+numerror(14)=1 0 3 1
+numerror(15)=1 0 3 1
+numerror(16)=1 0 3 1
+numerror(17)=1 0 3 1
+numerror(18)=1 0 3 1
+numerror(19)=1 0 3 1
+numerror(20)=1 0 3 1
+numerror(21)=1 0 3 1
+numerror(22)=1 0 3 1
+numerror(23)=1 0 3 1
+numerror(24)=640 1 3 1
+numerror(25)=640 1 3 1
+numerror(26)=640 1 3 1
+numerror(27)=640 1 3 1
+(p, q)=37, 951
+numerror(1)=2 0 5 1
+numerror(2)=2 0 4 1
+numerror(3)=2 0 5 1
+numerror(4)=2 0 5 1
+numerror(5)=2 0 6 1
+numerror(6)=2 0 6 1
+(p, q)=37, 381
+numerror(1)=27 0 86 -1
+numerror(2)=2 0 4 -1
+numerror(3)=2 0 4 -1
+numerror(4)=2 0 5 -1
+numerror(5)=2 0 4 -1
+numerror(6)=2 0 4 -1
+numerror(7)=2 0 4 -1
+numerror(8)=2 0 4 -1
+numerror(9)=2 0 4 -1
+numerror(10)=2 0 4 -1
+numerror(11)=2 0 4 -1
+numerror(12)=2 0 4 -1
+numerror(13)=2 0 4 -1
+numerror(14)=2 0 4 -1
+numerror(15)=2 0 4 -1
+numerror(16)=2 0 4 -1
+numerror(17)=1 0 3 -1
+numerror(18)=1 0 3 -1
+numerror(19)=1 0 3 -1
+numerror(20)=1 0 3 -1
+numerror(21)=1 0 3 -1
+numerror(22)=1 0 3 -1
+numerror(23)=1 0 3 -1
+numerror(24)=1 0 3 -1
+numerror(25)=1 0 3 -1
+numerror(26)=1 0 3 -1
+numerror(27)=1 0 2 -1
+numerror(28)=1 0 3 -1
+numerror(29)=1 0 2 -1
+numerror(30)=1 0 2 -1
+numerror(31)=1 0 2 -1
+numerror(32)=1 0 3 -1
+numerror(33)=1 0 2 -1
+numerror(34)=1 0 2 -1
+numerror(35)=1 0 2 -1
+numerror(36)=1 0 3 -1
+numerror(37)=1 0 2 -1
+numerror(38)=1 0 2 -1
+numerror(39)=1 0 2 -1
+numerror(40)=1 0 3 -1
+numerror(41)=1 0 2 -1
+numerror(42)=1 0 2 -1
+numerror(43)=1 0 3 -1
+numerror(44)=1 0 2 -1
+numerror(45)=1 0 2 -1
+numerror(46)=1 0 2 -1
+numerror(47)=1 0 3 -1
+numerror(48)=1 0 2 -1
+numerror(49)=1 0 2 -1
+numerror(50)=1 0 2 -1
+numerror(51)=1 0 3 -1
+numerror(52)=1 0 2 -1
+numerror(53)=1 0 2 -1
+numerror(54)=1 0 3 -1
+numerror(55)=1 0 2 -1
+numerror(56)=1 0 2 -1
+numerror(57)=1 0 2 -1
+numerror(58)=1 0 3 -1
+numerror(59)=1 0 2 -1
+numerror(60)=1 0 2 -1
+numerror(61)=1 0 2 -1
+numerror(62)=1 0 2 -1
+numerror(63)=1 0 2 -1
+numerror(64)=1 0 2 -1
+numerror(65)=1 0 3 -1
+numerror(66)=1 0 2 -1
+numerror(67)=1 0 2 -1
+numerror(68)=1 0 2 -1
+numerror(69)=1 0 2 -1
+numerror(70)=1 0 2 -1
+numerror(71)=1 0 2 -1
+numerror(72)=1 0 2 -1
+numerror(73)=1 0 2 -1
+numerror(74)=1 0 3 -1
+numerror(75)=1 0 2 -1
+numerror(76)=1 0 2 -1
+numerror(77)=1 0 2 -1
+numerror(78)=1 0 2 -1
+numerror(79)=1 0 2 -1
+numerror(80)=1 0 2 -1
+numerror(81)=1 0 2 -1
+numerror(82)=1 0 3 -1
+numerror(83)=1 0 2 -1
+numerror(84)=1 0 2 -1
+numerror(85)=1 0 2 -1
+numerror(86)=1 0 3 -1
+numerror(87)=1 0 2 -1
+numerror(88)=1 0 2 -1
+numerror(89)=1 0 2 -1
+numerror(90)=1 0 3 -1
+numerror(91)=1 0 2 -1
+numerror(92)=1 0 2 -1
+numerror(93)=1 0 2 -1
+numerror(94)=1 0 2 -1
+numerror(95)=1 0 3 -1
+numerror(96)=1 0 2 -1
+numerror(97)=1 0 2 -1
+numerror(98)=1 0 2 -1
+numerror(99)=1 0 2 -1
+numerror(100)=1 0 2 -1
+numerror(101)=1 0 3 -1
+numerror(102)=1 0 2 -1
+numerror(103)=1 0 2 -1
+numerror(104)=1 0 2 -1
+numerror(105)=1 0 3 -1
+numerror(106)=1 0 2 -1
+numerror(107)=1 0 2 -1
+numerror(108)=1 0 2 -1
+numerror(109)=1 0 3 -1
+numerror(110)=1 0 2 -1
+numerror(111)=1 0 2 -1
+numerror(112)=1 0 2 -1
+numerror(113)=1 0 3 -1
+numerror(114)=1 0 2 -1
+numerror(115)=1 0 2 -1
+numerror(116)=1 0 2 -1
+numerror(117)=1 0 2 -1
+numerror(118)=1 0 3 -1
+numerror(119)=1 0 2 -1
+numerror(120)=1 0 2 -1
+numerror(121)=1 0 2 -1
+numerror(122)=1 0 2 -1
+numerror(123)=1 0 2 -1
+numerror(124)=1 0 2 -1
+numerror(125)=1 0 2 -1
+numerror(126)=1 0 2 -1
+numerror(127)=1 0 2 -1
+numerror(128)=1 0 2 -1
+numerror(129)=1 0 2 -1
+numerror(130)=1 0 2 -1
+numerror(131)=1 0 2 -1
+numerror(132)=1 0 2 -1
+numerror(133)=1 0 2 -1
+numerror(134)=1 0 2 -1
+numerror(135)=1 0 2 -1
+numerror(136)=1 0 2 -1
+numerror(137)=1 0 2 -1
+numerror(138)=1 0 2 -1
+numerror(139)=1 0 2 -1
+numerror(140)=1 0 2 -1
+numerror(141)=1 0 2 -1
+numerror(142)=1 0 2 -1
+numerror(143)=1 0 2 -1
+numerror(144)=1 0 2 -1
+numerror(145)=1 0 2 -1
+numerror(146)=1 0 2 -1
+numerror(147)=1 0 2 -1
+numerror(148)=1 0 2 -1
+numerror(149)=1 0 2 -1
+numerror(150)=1 0 2 -1
+(p, q)=37, 169
+numerror(1)=27 0 85 -1
+numerror(2)=1 0 2 -1
+numerror(3)=2 0 4 -1
+numerror(4)=2 0 4 -1
+numerror(5)=2 0 4 -1
+numerror(6)=2 0 4 -1
+(p, q)=37, 48
+numerror(1)=45 0 141 -1
+num(3,7)=257
+minnumerror02(3,7)=0  2  2
+0  2
+0  2
+0  0
+0  0
+0  0
+2
+runtime(3,7)=56.211
+runtime(3,7)=56.221
+runtime(3,7)=56.226
+
+minnumerror2(3,7)=minnumerror2(15)=2
+0  0  0  0  3  0  0  1  0  0  0  0  0  1  2  
+runtime(3,7)=56.244
+
+numerror(1)=2 0 2 1
+numerror(2)=2 0 2 1
+numerror(3)=2 0 2 1
+numerror(4)=2 0 2 1
+numerror(5)=1 0 1 1
+numerror(6)=1 0 1 1
+numerror(7)=1 0 1 1
+numerror(8)=1 0 1 1
+numerror(9)=1 0 1 1
+numerror(10)=1 0 1 1
+numerror(11)=1 0 1 1
+numerror(12)=1 0 1 1
+numerror(13)=1 0 1 1
+numerror(14)=1 0 1 1
+numerror(15)=1 0 1 1
+numerror(16)=1 0 1 1
+numerror(17)=1 0 1 1
+numerror(18)=1 0 1 1
+numerror(19)=1 0 1 1
+numerror(20)=1 0 1 1
+numerror(21)=1 0 1 1
+numerror(22)=1 0 1 1
+numerror(23)=1 0 1 1
+numerror(24)=1 0 1 1
+numerror(25)=1 0 1 1
+numerror(26)=1 0 1 1
+numerror(27)=1 0 1 1
+numerror(28)=1 0 1 1
+numerror(29)=1 0 1 1
+numerror(30)=1 0 1 1
+numerror(31)=1 0 1 1
+numerror(32)=1 0 1 1
+numerror(33)=1 0 1 1
+numerror(34)=1 0 1 1
+numerror(35)=1 0 1 1
+numerror(36)=1 0 1 1
+numerror(37)=1 0 1 1
+numerror(38)=1 0 1 1
+numerror(39)=1 0 1 1
+numerror(40)=1 0 1 1
+numerror(41)=1 0 1 1
+numerror(42)=1 0 1 1
+numerror(43)=1 0 1 1
+numerror(44)=1 0 1 1
+numerror(45)=1 0 1 1
+numerror(46)=1 0 1 1
+numerror(47)=1 0 1 1
+numerror(48)=1 0 1 1
+numerror(49)=1 0 1 1
+numerror(50)=1 0 1 1
+numerror(51)=1 0 1 1
+numerror(52)=1 0 1 1
+numerror(53)=1 0 1 1
+numerror(54)=1 0 1 1
+numerror(55)=1 0 1 1
+numerror(56)=1 0 1 1
+numerror(57)=1 0 1 1
+numerror(58)=1 0 1 1
+numerror(59)=1 0 1 1
+numerror(60)=1 0 1 1
+numerror(61)=1 0 1 1
+numerror(62)=1 0 1 1
+numerror(63)=1 0 1 1
+numerror(64)=1 0 1 1
+numerror(65)=1 0 1 1
+numerror(66)=1 0 1 1
+numerror(67)=1 0 1 1
+numerror(68)=1 0 1 1
+numerror(69)=1 0 1 1
+numerror(70)=1 0 1 1
+numerror(71)=1 0 1 1
+numerror(72)=1 0 1 1
+numerror(73)=1 0 1 1
+numerror(74)=1 0 1 1
+numerror(75)=1 0 1 1
+numerror(76)=1 0 1 1
+numerror(77)=1 0 1 1
+numerror(78)=1 0 1 1
+numerror(79)=1 0 1 1
+numerror(80)=1 0 1 1
+numerror(81)=1 0 1 1
+numerror(82)=1 0 1 1
+numerror(83)=1 0 1 1
+numerror(84)=1 0 1 1
+numerror(85)=1 0 1 1
+numerror(86)=1 0 1 1
+numerror(87)=1 0 1 1
+numerror(88)=1 0 1 1
+numerror(89)=1 0 1 1
+numerror(90)=1 0 1 1
+numerror(91)=1 0 1 1
+numerror(92)=1 0 1 1
+numerror(93)=1 0 1 1
+numerror(94)=1 0 1 1
+numerror(95)=1 0 1 1
+numerror(96)=1 0 1 1
+numerror(97)=1 0 1 1
+numerror(98)=1 0 1 1
+numerror(99)=1 0 1 1
+numerror(100)=1 0 1 1
+numerror(101)=1 0 1 1
+numerror(102)=1 0 1 1
+numerror(103)=1 0 1 1
+numerror(104)=1 0 1 1
+numerror(105)=0 0 0 1
+n0=1;k0=16;minnumerror1=0;minnumerror2(k0)=0
+num(4,5)=105
+minnumerror02(4,5)=0  0  0
+0  0
+0  0
+0  0
+0  0
+0  0
+0
+runtime(4,5)=57.664
+runtime(4,5)=57.669
+runtime(4,5)=57.674
+
+minnumerror2(4,5)=minnumerror2(16)=0
+0  0  0  0  3  0  0  1  0  0  0  0  0  1  2  0  
+runtime(4,5)=57.699
+
+numerror(1)=6811 0 2 1
+numerror(2)=6811 0 2 1
+numerror(3)=6811 0 2 1
+numerror(4)=6811 0 2 1
+numerror(5)=6811 0 2 1
+numerror(6)=6811 0 2 1
+numerror(7)=6811 0 2 1
+numerror(8)=6811 0 2 1
+numerror(9)=6811 0 2 1
+numerror(10)=6811 0 2 1
+numerror(11)=6811 0 2 1
+numerror(12)=6811 0 2 1
+numerror(13)=6811 0 2 1
+numerror(14)=6811 0 2 1
+numerror(15)=6811 0 2 1
+numerror(16)=6811 0 2 1
+numerror(17)=6811 0 2 1
+numerror(18)=6811 0 2 1
+numerror(19)=6811 0 2 1
+numerror(20)=6811 0 2 1
+numerror(21)=6811 0 2 1
+numerror(22)=6811 0 1 1
+numerror(23)=6811 0 1 1
+numerror(24)=6811 0 1 1
+numerror(25)=6811 0 1 1
+numerror(26)=6811 0 1 1
+numerror(27)=6811 0 1 1
+numerror(28)=6811 0 1 1
+numerror(29)=6811 0 1 1
+numerror(30)=6811 0 1 1
+numerror(31)=6811 0 1 1
+numerror(32)=6811 0 1 1
+numerror(33)=6811 0 1 1
+numerror(34)=6811 0 1 1
+numerror(35)=6811 0 1 1
+numerror(36)=6811 0 1 1
+numerror(37)=6811 0 1 1
+numerror(38)=6811 0 1 1
+numerror(39)=6811 0 1 1
+numerror(40)=6811 0 1 1
+numerror(41)=6811 0 1 1
+numerror(42)=6811 0 1 1
+numerror(43)=6811 0 1 1
+numerror(44)=6811 0 1 1
+numerror(45)=6811 0 1 1
+numerror(46)=6811 0 1 1
+numerror(47)=6811 0 1 1
+numerror(48)=6811 0 1 1
+numerror(49)=6811 0 1 1
+numerror(50)=6811 0 1 1
+numerror(51)=6811 0 1 1
+numerror(52)=6811 0 1 1
+numerror(53)=6811 0 1 1
+numerror(54)=6811 0 1 1
+numerror(55)=6811 0 1 1
+numerror(56)=6811 0 1 1
+numerror(57)=6811 0 1 1
+numerror(58)=6811 0 1 1
+numerror(59)=6811 0 1 1
+numerror(60)=6811 0 1 1
+numerror(61)=6811 0 1 1
+numerror(62)=6811 0 1 1
+numerror(63)=6811 0 1 1
+numerror(64)=6811 0 1 1
+numerror(65)=6811 0 1 1
+numerror(66)=6811 0 1 1
+numerror(67)=6811 0 1 1
+numerror(68)=6811 0 1 1
+numerror(69)=6811 0 1 1
+numerror(70)=6811 0 1 1
+numerror(71)=6811 0 1 1
+numerror(72)=6811 0 1 1
+numerror(73)=6811 0 1 1
+numerror(74)=6811 0 1 1
+numerror(75)=6811 0 1 1
+numerror(76)=6811 0 1 1
+numerror(77)=6811 0 1 1
+numerror(78)=6811 0 1 1
+numerror(79)=6811 0 1 1
+numerror(80)=6811 0 1 1
+numerror(81)=6811 0 1 1
+numerror(82)=6811 0 1 1
+numerror(83)=6811 0 1 1
+numerror(84)=6811 0 1 1
+numerror(85)=6811 0 1 1
+numerror(86)=6811 0 1 1
+numerror(87)=6811 0 1 1
+numerror(88)=6811 0 1 1
+numerror(89)=6811 0 1 1
+numerror(90)=6811 0 1 1
+numerror(91)=6811 0 1 1
+numerror(92)=6811 0 1 1
+numerror(93)=6811 0 1 1
+numerror(94)=6811 0 1 1
+numerror(95)=6811 0 1 1
+numerror(96)=6811 0 1 1
+numerror(97)=6811 0 1 1
+numerror(98)=6811 0 1 1
+numerror(99)=6811 0 1 1
+numerror(100)=6811 0 1 1
+numerror(101)=6811 0 1 1
+numerror(102)=6811 0 1 1
+numerror(103)=6811 0 1 1
+numerror(104)=6811 0 1 1
+numerror(105)=6811 0 1 1
+numerror(106)=6811 0 1 1
+numerror(107)=6811 0 1 1
+numerror(108)=6811 0 1 1
+numerror(109)=6811 0 1 1
+numerror(110)=6811 0 1 1
+numerror(111)=6811 0 1 1
+numerror(112)=6811 0 1 1
+numerror(113)=6811 0 1 1
+numerror(114)=6811 0 1 1
+numerror(115)=6811 0 1 1
+numerror(116)=6811 0 1 1
+numerror(117)=6811 0 1 1
+numerror(118)=6811 0 1 1
+numerror(119)=6811 0 1 1
+numerror(120)=6811 0 1 1
+numerror(121)=6811 0 1 1
+numerror(122)=6811 0 1 1
+numerror(123)=6811 0 1 1
+numerror(124)=6811 0 1 1
+numerror(125)=6811 0 1 1
+numerror(126)=6811 0 1 1
+numerror(127)=6811 0 1 1
+numerror(128)=6811 0 1 1
+numerror(129)=6811 0 1 1
+numerror(130)=6811 0 1 1
+numerror(131)=6811 0 1 1
+numerror(132)=6811 0 1 1
+numerror(133)=6811 0 1 1
+numerror(134)=6811 0 1 1
+numerror(135)=6811 0 1 1
+numerror(136)=6811 0 1 1
+numerror(137)=6811 0 1 1
+numerror(138)=6811 0 1 1
+numerror(139)=6811 0 1 1
+numerror(140)=6811 0 1 1
+numerror(141)=6811 0 1 1
+numerror(142)=6811 0 1 1
+numerror(143)=6811 0 1 1
+numerror(144)=6811 0 1 1
+numerror(145)=6811 0 1 1
+numerror(146)=6811 0 1 1
+numerror(147)=6811 0 1 1
+numerror(148)=6811 0 1 1
+numerror(149)=6811 0 1 1
+numerror(150)=6811 0 1 1
+(p, q)=59, 3076
+numerror(1)=6811 0 2 1
+numerror(2)=6811 0 2 1
+numerror(3)=6811 0 2 1
+numerror(4)=6811 0 2 1
+numerror(5)=6811 0 2 1
+numerror(6)=6811 0 2 1
+numerror(7)=6811 0 2 1
+numerror(8)=6811 0 2 1
+numerror(9)=6811 0 2 1
+numerror(10)=6811 0 2 1
+numerror(11)=6811 0 2 1
+numerror(12)=6811 0 2 1
+numerror(13)=6811 0 2 1
+numerror(14)=6811 0 2 1
